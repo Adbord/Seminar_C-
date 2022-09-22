@@ -1,0 +1,15 @@
+L:\А. Булгаков C#\Seminar\Task00\bin\Debug\net7.0\Task00.exe
+L:\А. Булгаков C#\Seminar\Task00\bin\Debug\net7.0\Task00.deps.json
+L:\А. Булгаков C#\Seminar\Task00\bin\Debug\net7.0\Task00.runtimeconfig.json
+L:\А. Булгаков C#\Seminar\Task00\bin\Debug\net7.0\Task00.dll
+L:\А. Булгаков C#\Seminar\Task00\bin\Debug\net7.0\Task00.pdb
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.csproj.AssemblyReference.cache
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.GeneratedMSBuildEditorConfig.editorconfig
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.AssemblyInfoInputs.cache
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.AssemblyInfo.cs
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.csproj.CoreCompileInputs.cache
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.dll
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\refint\Task00.dll
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.pdb
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\Task00.genruntimeconfig.cache
+L:\А. Булгаков C#\Seminar\Task00\obj\Debug\net7.0\ref\Task00.dll
